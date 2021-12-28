@@ -1,4 +1,4 @@
-package java1.lesson1;
+package ru.geekbrains.java1.lesson1;
 
 /*
     1. Создайте метод printThreeWords(), который при вызове должен отпечатать в столбец три слова: Orange, Banana, Apple.
