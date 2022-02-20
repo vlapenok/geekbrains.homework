@@ -82,6 +82,7 @@ public class GameWindow extends JFrame {
                 buttonsPanel.revalidate();
                 textField.setText("Игра угадай число");
                 count = 0;
+                int[] a[] = new int[5][5];
             }
         });
 
